@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Djangoproject"
+		},
+		{
+			"name": "django-ecommerce",
+			"path": "..\\..\\django-ecommerce"
+		}
+	],
+	"settings": {}
+}
